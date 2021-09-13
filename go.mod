@@ -1,4 +1,4 @@
-module idavydov/go_fortran_test_run
+module github.com/idavydov/go_fortran_test_run
 
 go 1.17
 
